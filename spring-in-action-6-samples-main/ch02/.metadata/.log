@@ -108,3 +108,15 @@ END
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-03-15 10:50:30.797
 !MESSAGE Started org.springframework.tooling.boot.ls LS process 7920
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-15 10:56:43.262
+!MESSAGE Classpath changed for project: taco-cloud
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-15 10:56:47.628
+!MESSAGE Classpath changed for project: taco-cloud-own
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-15 10:56:47.629
+!MESSAGE Boot project ADDED: taco-cloud-own
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-15 10:56:48.587
+!MESSAGE Classpath changed for project: taco-cloud-own
